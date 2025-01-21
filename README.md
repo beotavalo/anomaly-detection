@@ -1,2 +1,2 @@
-# anomaly--detection
-This is a ML sample project for anomaly detection.
+# Anomaly Detection with ML
+This is an ML sample project for anomaly detection.
